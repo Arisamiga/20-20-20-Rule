@@ -38,7 +38,7 @@ Then go to "Triggers" and Press "New..."
 
 Make sure to have the following settings: 
 
-![image](https://user-images.githubusercontent.com/64918822/210897943-60c6d0bc-d106-4907-b046-c0b06daf5b0c.png)
+![image](https://user-images.githubusercontent.com/64918822/211209316-ff174544-6603-4d3d-a3df-af86de8eeace.png)
 
 * Note: You might not see an option on "Repeat task every:" for 20 minutes but you can click on the box and manually type "20 minutes"
 * For the Trigger to work make sure you have set the Start Date at a date in the future like 3 minutes after your actual time should be fine.
